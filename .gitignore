@@ -1,0 +1,14 @@
+.dub
+docs.json
+__dummy.html
+docs/
+vg-track.so
+vg-track.dylib
+vg-track.dll
+vg-track.a
+vg-track.lib
+vg-track-test-*
+*.exe
+*.o
+*.obj
+*.lst

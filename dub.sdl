@@ -1,0 +1,6 @@
+name "vg-track"
+description "A simple web server to track video game time"
+authors "Steven Schveighoffer"
+copyright "Copyright © 2018, Steven Schveighoffer"
+license "BSL-1.0"
+dependency "vibe-d" version="~>0.8.2"
